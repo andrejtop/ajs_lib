@@ -1,0 +1,23 @@
+{
+  "name": "ajs_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejtop/ajs_lib.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejtop/ajs_lib/issues"
+  },
+  "homepage": "https://github.com/andrejtop/ajs_lib#readme",
+  "dependencies": {
+    "@andrejtop/ajs_1": "^1.0.0"
+  }
+}
